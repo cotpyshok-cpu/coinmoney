@@ -1,0 +1,11 @@
+{
+  "name": "Coinmoney",
+  "short_name": "Coinmoney",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F7F8FC",
+  "theme_color": "#2F66F6",
+  "description": "Coinmoney cryptocurrency wallet, market, and trading application.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
